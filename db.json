@@ -1,0 +1,11 @@
+{
+    "listaequipamentoaula": [
+      {"id": 1, "idequipamento": 1, "quantidade": 2, "idaula": 1},
+      {"id": 2, "idequipamento": 2, "quantidade": 1, "idaula": 1}
+   ],
+
+   "listaexerciciotreino": [
+      {"id": 1, "idtreino": 1, "idexercicio": 2, "serie": "3", "repeticao": "15", "carga": "15"},
+      {"id": 2, "idtreino": 2, "idexercicio": 1, "serie": "3", "repeticao": "12", "carga": "20"}
+   ]
+}
