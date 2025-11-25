@@ -9,7 +9,7 @@
       {"id": 1, "idtreino": 1, "idexercicio": 2, "serie": "3", "repeticao": "15", "carga": "15"},
       {"id": 2, "idtreino": 2, "idexercicio": 1, "serie": "3", "repeticao": "12", "carga": "20"}
    ]
-    "relatoriosacademia"
+    "relatoriosacademia":[
     {
   "TotalAnual": 48960,
   "Mensal": {
@@ -75,5 +75,5 @@
     }
   }
 }
-
+    ]
 }
