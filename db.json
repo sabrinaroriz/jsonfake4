@@ -9,4 +9,70 @@
       {"id": 1, "idtreino": 1, "idexercicio": 2, "serie": "3", "repeticao": "15", "carga": "15"},
       {"id": 2, "idtreino": 2, "idexercicio": 1, "serie": "3", "repeticao": "12", "carga": "20"}
    ]
+    {
+  "TotalAnual": 48960,
+  "Mensal": {
+    "Janeiro": {
+      "Receita": 4200,
+      "Despesas": 1800,
+      "Lucro": 2400
+    },
+    "Fevereiro": {
+      "Receita": 4000,
+      "Despesas": 1700,
+      "Lucro": 2300
+    },
+    "Marco": {
+      "Receita": 4300,
+      "Despesas": 1900,
+      "Lucro": 2400
+    },
+    "Abril": {
+      "Receita": 4100,
+      "Despesas": 1750,
+      "Lucro": 2350
+    },
+    "Maio": {
+      "Receita": 4500,
+      "Despesas": 2000,
+      "Lucro": 2500
+    },
+    "Junho": {
+      "Receita": 4400,
+      "Despesas": 1850,
+      "Lucro": 2550
+    },
+    "Julho": {
+      "Receita": 4600,
+      "Despesas": 1950,
+      "Lucro": 2650
+    },
+    "Agosto": {
+      "Receita": 4700,
+      "Despesas": 2000,
+      "Lucro": 2700
+    },
+    "Setembro": {
+      "Receita": 4800,
+      "Despesas": 2100,
+      "Lucro": 2700
+    },
+    "Outubro": {
+      "Receita": 4900,
+      "Despesas": 2200,
+      "Lucro": 2700
+    },
+    "Novembro": {
+      "Receita": 5000,
+      "Despesas": 2300,
+      "Lucro": 2700
+    },
+    "Dezembro": {
+      "Receita": 4600,
+      "Despesas": 2100,
+      "Lucro": 2500
+    }
+  }
+}
+
 }
