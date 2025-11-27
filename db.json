@@ -15,7 +15,7 @@
     "Mensal": {
       "Janeiro": { "Receita": 4200, "Despesas": 1800, "Lucro": 2400 },
       "Fevereiro": { "Receita": 4000, "Despesas": 1700, "Lucro": 2300 },
-      "Marco": { "Receita": 4300, "Despesas": 1900, "Lucro": 2400 },
+      "Março": { "Receita": 4300, "Despesas": 1900, "Lucro": 2400 },
       "Abril": { "Receita": 4100, "Despesas": 1750, "Lucro": 2350 },
       "Maio": { "Receita": 4500, "Despesas": 2000, "Lucro": 2500 },
       "Junho": { "Receita": 4400, "Despesas": 1850, "Lucro": 2550 },
