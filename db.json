@@ -28,20 +28,19 @@
     }
   },
 
-  {
-  "presentes": 27,
-  "aulasAgora": [
-    { "nome": "Musculação", "professor": "Marcos" },
-    { "nome": "CrossFit", "professor": "Ana Paula" }
-  ],
-  "avisos": [
-    "Manutenção no ar-condicionado às 17h",
-    "Aula de spinning cancelada hoje"
-  ],
-  "ocupacao": {
-    "horarios": ["06h", "07h", "08h", "09h"],
-    "valores": [41, 52, 67, 53]
+  "resumododia": {
+    "presentes": 27,
+    "aulasAgora": [
+      { "nome": "Musculação", "professor": "Marcos" },
+      { "nome": "CrossFit", "professor": "Ana Paula" }
+    ],
+    "avisos": [
+      "Manutenção no ar-condicionado às 17h",
+      "Aula de spinning cancelada hoje"
+    ],
+    "ocupacao": {
+      "horarios": ["06h", "07h", "08h", "09h"],
+      "valores": [41, 52, 67, 53]
+    }
   }
-}
-
 }
