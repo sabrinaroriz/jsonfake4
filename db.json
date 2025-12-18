@@ -10,7 +10,7 @@
     { "id": 2, "idtreino": 2, "idexercicio": 1, "serie": "3", "repeticao": "12", "carga": "20" }
   ],
 
-  "relatorioAcademia": {
+  "relatoriofinanceiroacademia": {
     "TotalAnual": 48960,
     "Mensal": {
       "Janeiro": { "Receita": 4200, "Despesas": 1800, "Lucro": 2400 },
