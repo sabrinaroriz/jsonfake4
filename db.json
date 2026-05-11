@@ -16,6 +16,12 @@
     { "id": 3, "idCliente": 1, "idAula": 1 }
   ],
 
+  "listaajustefinanceirofatura": [
+    { "id": 1, "idAjusteFinanceiro": 1, "idFatura": 1 },
+    { "id": 2, "idAjusteFinanceiro": 1, "idFatura": 2 },
+    { "id": 3, "idAjusteFinanceiro": 2, "idFatura": 2 }
+  ],
+
   "relatoriofinanceiroacademia": {
     "TotalAnual": 48960,
     "Mensal": {
