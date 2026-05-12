@@ -1,22 +1,23 @@
 {
-  "listaequipamentoaula": [
-    { "id": 1, "idequipamento": 1, "quantidade": 2, "idaula": 1 },
-    { "id": 2, "idequipamento": 2, "quantidade": 1, "idaula": 1 },
-    { "id": 3, "idequipamento": 2, "quantidade": 1, "idaula": 2 }
+  "listasequipamentosaulas": [
+    { "id": 1, "idEquipamento": 1, "quantidade": 2, "idAula": 1 },
+    { "id": 2, "idEquipamento": 2, "quantidade": 1, "idAula": 1 },
+    { "id": 3, "idEquipamento": 2, "quantidade": 1, "idAula": 2 },
+    { "id": 4, "idEquipamento": 1, "quantidade": 2, "idAula": 2 }
   ],
 
-  "listaexerciciotreino": [
-    { "id": 1, "idtreino": 1, "idexercicio": 2, "serie": "3", "repeticao": "15", "carga": "15" },
-    { "id": 2, "idtreino": 2, "idexercicio": 1, "serie": "3", "repeticao": "12", "carga": "20" }
+  "listasexerciciostreinos": [
+    { "id": 1, "idTreino": 1, "idExercicio": 2, "serie": "3", "repeticao": "15", "carga": "15" },
+    { "id": 2, "idTreino": 2, "idExercicio": 1, "serie": "3", "repeticao": "12", "carga": "20" }
   ],
 
-  "listaclienteaula": [
+  "listasclientesaulas": [
     { "id": 1, "idCliente": 1, "idAula": 2 },
     { "id": 2, "idCliente": 2, "idAula": 1 },
     { "id": 3, "idCliente": 1, "idAula": 1 }
   ],
 
-  "listaajustefinanceirofatura": [
+  "listasajustesfinanceirosfaturas": [
     { "id": 1, "idAjusteFinanceiro": 1, "idFatura": 1 },
     { "id": 2, "idAjusteFinanceiro": 1, "idFatura": 2 },
     { "id": 3, "idAjusteFinanceiro": 2, "idFatura": 2 }
